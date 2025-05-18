@@ -1,10 +1,13 @@
 # rrcal - Rational Root Calculator
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ES3OZJ8LiPQ?si=Cpn-nv3enpppuk7p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+This is a tool to calculate rational roots of a polynomial equation. This tool does its job by applying the [Rational root theorem](#rational-root-theorem). This program is developed entirely in C99. There are no dynamic allocations; everything is static and the program memory is completely predictable. Documentation of each function, macro and struct can be read in the header files inside the folder `include/`.
 
-This is a tool to calculate rational roots of a polynomial equation. This tool does its job by applying the [Rational root theorem](#rational-root-theorem).
-
-This program is developed entirely in C99. There are no dynamic allocations; everything is static and the program memory is completely predictable. Documentation of each function, macro and struct can be read in the header files inside the folder `include/`.
+<div align="center">
+<p>Introduction Video 👇</p>
+<a href="https://www.youtube.com/embed/ES3OZJ8LiPQ?si=Cpn-nv3enpppuk7p">
+  <img alt="YouTube thumbnail" src="https://img.youtube.com/vi/ES3OZJ8LiPQ/0.jpg" />
+</a>
+</div>
 
 ## Rational root theorem
 
